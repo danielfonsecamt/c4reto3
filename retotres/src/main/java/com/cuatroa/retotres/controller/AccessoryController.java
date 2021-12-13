@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author desaextremo
  */
 @RestController
-@RequestMapping("/api/accessory")
+@RequestMapping("/api/peripherals")
 @CrossOrigin("*")
 public class AccessoryController {
 
